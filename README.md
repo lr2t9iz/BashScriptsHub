@@ -1,2 +1,2 @@
 # BashScriptsHub
-Bash Scritps
+Bash Scripts Repository
